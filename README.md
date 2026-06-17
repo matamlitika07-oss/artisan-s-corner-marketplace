@@ -10,7 +10,7 @@
 
 Artisan's Corner is a modern marketplace landing page designed to connect customers with passionate artisans and independent makers. The platform focuses on handmade goods, unique products, and a clean shopping experience.
 
-![Landing Page](screenshots/landing-page.png)
+![Landing Page](screenshots/screenshots/landing-page.png)
 
 ## 🚀 Current Features
 
